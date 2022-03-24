@@ -39,7 +39,7 @@ body{
 .background {
     position: absolute;
     bottom: 0;
-    background-image: url(background.png);
+    background-image: url(backgroundNuvem.png);
     background-repeat: repeat-x;
     animation: slideright 600s infinite linear;
     width: 100%;
